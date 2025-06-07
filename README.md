@@ -60,7 +60,7 @@ A compact and efficient live GPS tracker built using **ESP32-WROOM-32** and the 
 🎬 **Project Preview**  
 Watch the real-time GPS tracking in action, with LCD feedback and live map updates:
 
-[▶ Watch Demo Video](https://github.com/MarawanGhazy/ESP32_GPS_Live_Tracking_Device_with_Web_Map/raw/main/assets/Demo.mp4)
+[▶ Watch Demo Video](https://github.com/MarawanGhazy/ESP32-GPS_Live_Tracking_Device_with_Web_Map/blob/main/assets/VIDEO.mp4)
 
 <video src="https://github.com/MarawanGhazy/ESP32_GPS_Live_Tracking_Device_with_Web_Map/raw/main/assets/Demo.mp4" controls style="width:100%; max-width:600px; border-radius:8px;"></video>
 
@@ -70,7 +70,7 @@ Watch the real-time GPS tracking in action, with LCD feedback and live map updat
 
 A snapshot of the Leaflet map interface running from the ESP32:
 
-![Leaflet Map Screenshot](https://github.com/MarawanGhazy/ESP32-GPS_Live_Tracking_Device_with_Web_Map/raw/main/assets/Location.jpg)
+![Leaflet Map Screenshot](https://github.com/MarawanGhazy/ESP32-GPS_Live_Tracking_Device_with_Web_Map/blob/main/assets/MAP.jpg)
 
 ---
 
