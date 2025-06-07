@@ -58,11 +58,11 @@ A compact and efficient live GPS tracker built using **ESP32-WROOM-32** and the 
 ## 📺 Demo Video
 
 🎬 **Project Preview**  
-Watch the real-time GPS tracking in action, with LCD feedback and live map updates:
+Watch the real-time GPS tracking in action, featuring LCD status updates and live map refreshes:
 
 [▶ Watch Demo Video](https://github.com/MarawanGhazy/ESP32-GPS_Live_Tracking_Device_with_Web_Map/blob/main/assets/VIDEO.mp4)
 
-<video src="https://github.com/MarawanGhazy/ESP32_GPS_Live_Tracking_Device_with_Web_Map/raw/main/assets/Demo.mp4" controls style="width:100%; max-width:600px; border-radius:8px;"></video>
+<video src="https://github.com/MarawanGhazy/ESP32-GPS_Live_Tracking_Device_with_Web_Map/raw/main/assets/VIDEO.mp4" controls style="width:100%; max-width:600px; border-radius:8px;"></video>
 
 ---
 
@@ -84,6 +84,28 @@ Install via **Arduino Library Manager**:
 - `WebServer.h` – For hosting the local web page
 
 ---
+
+## 🧱 3D-Printed Housing
+
+To enhance portability and protection, the project is enclosed in a custom 3D-printed case designed to fit all components snugly. The housing includes dedicated slots and cutouts for:
+
+- 10*10 PCB
+- u-blox NEO-6M GPS module (with antenna clearance)
+- 16x2 LCD (front-facing)
+- Power supply access
+
+This enclosure makes the device compact, reliable, and suitable for mobile use—such as mounting on a bike, backpack, or drone.
+
+
+🖼️ **Full Housing Preview:**
+
+![3D Housing Preview](https://github.com/MarawanGhazy/ESP32-GPS_Live_Tracking_Device_with_Web_Map/raw/main/assets/FULL%20BOX%20PREVIEW.png)
+
+> STL files can be sliced using Cura or PrusaSlicer. Recommended material: PLA+ for indoor use or PETG for outdoor environments.
+
+
+---
+
 
 ## 🚀 Getting Started
 
