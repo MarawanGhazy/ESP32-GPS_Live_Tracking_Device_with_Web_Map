@@ -89,7 +89,7 @@ Install via **Arduino Library Manager**:
 
 To enhance portability and protection, the project is enclosed in a custom 3D-printed case designed to fit all components snugly. The housing includes dedicated slots and cutouts for:
 
-- 10*10 PCB
+- 10x10cm PCB
 - u-blox NEO-6M GPS module (with antenna clearance)
 - 16x2 LCD (front-facing)
 - Power supply access
