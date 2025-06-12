@@ -153,7 +153,7 @@ Leaflet.js is fully hosted locally by the ESP32—no external dependencies requi
 If you're storing media assets (video/image) on the ESP32, consider using SPIFFS.
 
 🙌 Credits
-Developed by Marawan Ghazy
+Developed by Marawan Ghazy X Anas Wagih
 This project is open-source and available under the MIT license.
 
 ---
